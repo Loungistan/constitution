@@ -2,5 +2,8 @@ We the People of the Free People's Republic of Loungistan, in Order to form a mo
 
 // insert your Loungistan-Constitution paragraph here
 
+## Potato Wedges
+All potato wedges in the Free People's Republic of Loungistan belong to the people.
+
 ## Going for a walk
 The People of the Free People's Republic of Loungistan have the undeniable right to go for walks.
