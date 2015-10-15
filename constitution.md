@@ -7,3 +7,6 @@ All potato wedges in the Free People's Republic of Loungistan belong to the peop
 
 ## Going for a walk
 The People of the Free People's Republic of Loungistan have the undeniable right to go for walks.
+
+## Changes to this Constitution
+Changes to this Constitution shall be made by the people of the Free People's Republic of Loungistan by pushing their commits to the official repository on Github.
