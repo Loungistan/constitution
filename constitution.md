@@ -2,6 +2,9 @@ We the People of the Free People's Republic of Loungistan, in Order to form a mo
 
 // insert your Loungistan-Constitution paragraph here
 
+## No property clause
+Nothing in the Free People's Republic of Loungistan shall be seen as someones property.
+
 ## Potato Wedges
 All potato wedges in the Free People's Republic of Loungistan belong to the people.
 
